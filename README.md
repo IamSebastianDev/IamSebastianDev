@@ -13,6 +13,7 @@ My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked
 -   On the front-end **HTML5, CSS3, TailwindCSS, JavaScript (Es6+)**
 -   Frameworks like **React & Svelte(Kit)**
 -   Backend with **NodeJs, Express, Firebase & MongoDB**
+-   Widgets for the iPhone using **Scriptable.io**
 -   Tools like **NPM, Rollup, Postman, AdobeXD & more**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsebastiandev&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
