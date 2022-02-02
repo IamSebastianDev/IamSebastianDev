@@ -2,7 +2,7 @@
 
 # 👋 Hi there!
 
-I am Sebastian, a fullstack developer from Munich, Germany. Nice of you to swing by! I mostly do frontend developent, but my guilty pleasure is creating my own packages & libraries and sharing them with the open-source community. 📦 I also teach people basics in webdevelopment.
+I am Sebastian, a fullstack developer from Munich, Germany. Nice of you to swing by! I mostly do frontend development, but my guilty pleasure is creating my own packages & libraries and sharing them with the open-source community. 📦 I also teach people basics in webdevelopment.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsebastiandev&show_icons=true&theme=gruvbox&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
