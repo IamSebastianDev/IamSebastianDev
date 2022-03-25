@@ -8,9 +8,9 @@ I am Sebastian, a fullstack developer from Munich, Germany. Nice of you to swing
 
 ## 🔧 What I work with
 
-My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked with
+My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked with:
 
--   On the front-end **HTML5, CSS3, TailwindCSS, JavaScript (Es6+)**
+-   On the front-end **HTML5, CSS3, TailwindCSS, JavaScript (Es6+), Typescript**
 -   Frameworks like **React & Svelte(Kit)**
 -   Backend with **NodeJs, Express, Firebase & MongoDB**
 -   Widgets for the iPhone using **Scriptable.io**
@@ -24,6 +24,4 @@ My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked
 -   On Twitter [@iamsebastiandev](https://twitter.com/iamsebastiandev)
 -   My Portfolio [iamsebastian.dev](https://iamsebastian.dev)
 
-## 🦄 Looking for a developer?
-
-Fitting, I am looking for a Job. If you like what you see, feel free to get in touch!
+## 🦄 I also like Unicors.
