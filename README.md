@@ -24,4 +24,4 @@ My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked
 -   On Twitter [@iamsebastiandev](https://twitter.com/iamsebastiandev)
 -   My Portfolio [iamsebastian.dev](https://iamsebastian.dev)
 
-## 🦄 I also like Unicors.
+## 🦄 I also like Unicorns.
