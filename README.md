@@ -11,10 +11,10 @@ I am Sebastian, a fullstack developer from Munich, Germany. Nice of you to swing
 My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked with:
 
 -   On the front-end **HTML5, CSS3, TailwindCSS, JavaScript (Es6+), Typescript**
--   Frameworks like **React & Svelte(Kit)**
--   Backend with **NodeJs, Express, Firebase & MongoDB**
+-   Frameworks like **React, Angular & Svelte(Kit)**
+-   Backend with **NodeJs, Express, Laravel, Firebase & MongoDB**
 -   Widgets for the iPhone using **Scriptable.io**
--   Tools like **NPM, Rollup, Postman, AdobeXD & more**
+-   Tools like **NPM, Rollup, Postman, Husky, AdobeXD & more**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsebastiandev&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
