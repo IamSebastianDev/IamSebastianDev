@@ -7,9 +7,6 @@ I am Sebastian, a fullstack developer from Munich, Germany. Nice of you to swing
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsebastiandev&show_icons=true&theme=onedark&hide=contribs" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsebastiandev&show_icons=true&theme=onedark&layout=compact" />
-</a>
 
 ## 🔧 What I work with
 
@@ -20,6 +17,10 @@ My currently preferred Techstack is SvelteKit & Tailwind. But I have also worked
 -   Backend with **NodeJs, Express, PHP, Laravel, SurrealDB, Firebase & MongoDB**
 -   Widgets for the iPhone using **Scriptable.io**
 -   Tools like **NPM, Rollup, Docker, Postman, Husky, AdobeXD & more**
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsebastiandev&show_icons=true&theme=onedark&layout=compact" />
+</a>
 
 ## 🗺 Where to find me
 
